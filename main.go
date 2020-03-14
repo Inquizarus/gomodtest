@@ -2,6 +2,6 @@ package gomodtest
 
 import "fmt"
 
-func SayIt(string s) {
+func SayIt(s string) {
 	fmt.Println(s)
 }
